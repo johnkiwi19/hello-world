@@ -2,3 +2,4 @@ This is the first line of text that I have added to
 fred.txt
 
 I am starting to get the hang of things 
+Editing fred but using existing branch 
